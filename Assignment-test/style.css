@@ -1,0 +1,80 @@
+.main{
+    background-color: pink;
+}
+.maimmm{
+    color: blue;
+    font-family: Roboto;
+font-size: 52px;
+font-weight: 700;
+line-height: 60.94px;
+text-align: center;
+}
+
+.mainnn{
+    
+    color: #696C73;
+
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+
+}
+
+.mybutton{
+
+    
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: center;
+
+border: 1px solid #FFFFFF
+
+
+
+
+
+}
+
+.image1{
+
+
+    width: 281px;
+height: 576px;
+top: 272px;
+left: 49px;
+padding: 0.08px 0.32px 0.08px 0.44px;
+
+position: absolute;
+top: 200px;
+bottom: 20px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
+
+
+.image2{
+    
+    width: 231px;
+    height: 473px;
+    top: 456px;
+    left: 1130px;
+    padding: 0.71px 0.59px 0.51px 0.13px;
+    position: absolute;
+    top:200px;
+    right: 30px;
+    bottom: 20px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+
+}
+
+
